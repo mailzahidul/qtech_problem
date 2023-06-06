@@ -1,0 +1,42 @@
+      {
+        "uttara": {
+          "latitude": 23.8728568,
+          "longitude": 90.3984184
+        },
+        "airport": {
+          "latitude": 23.8513998,
+          "longitude": 90.3944536
+        },
+        "nikunja": {
+          "latitude": 23.8330429,
+          "longitude": 90.4092871
+        },
+        "sonargoan_janapath": {
+          "latitude": 23.8679743,
+          "longitude": 90.3840879
+        },
+        "mirpur_12": {
+          "latitude": 23.8248293,
+          "longitude": 90.3551134
+        },
+        "le_meridien": {
+          "latitude": 23.827149,
+          "longitude": 90.4106238
+        },
+        "shaheed_sarani": {
+          "latitude": 23.8629078,
+          "longitude": 90.3816318
+        },
+        "narayanganj": {
+          "latitude": 23.8673789,
+          "longitude": 90.429412
+        },
+        "pallobi": {
+          "latitude": 23.8248938,
+          "longitude": 90.3549467
+        },
+        "jfp": {
+          "latitude": 23.813316,
+          "longitude": 90.4147498
+        }
+    }
